@@ -1,5 +1,5 @@
 
-This archive includes ThermoRawFileParser from https://github.com/compomics/ThermoRawFileParser
+This repository includes ThermoRawFileParser from https://github.com/compomics/ThermoRawFileParser
 
 The Mac bundle ThermoRawFileParserMac was generated with Mono using this command:
 ```
@@ -10,4 +10,4 @@ The Linux bundle ThermoRawFileParserLinux was generated with Mono using this com
 ```
 mkbundle -o ThermoRawFileParserLinux --static --deps --sdk / -L /lib/mono/4.5/Facades ThermoRawFileParser.exe
 ```
- 
+
